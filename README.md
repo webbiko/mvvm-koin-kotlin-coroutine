@@ -26,7 +26,4 @@ Pre-requirement: npm installed.
 ```
 6) Type the command: json-server --host <your-ip-address> --watch db.json
 
-PS: Json server reference: 
-[json-server]
-
-[json-server]: https://www.npmjs.com/package/json-server
+**PS: [Json server reference](https://www.npmjs.com/package/json-server)**
