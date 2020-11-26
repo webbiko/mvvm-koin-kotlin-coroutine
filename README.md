@@ -26,4 +26,14 @@ Pre-requirement: npm installed.
 ```
 6) Type the command: json-server --host <your-ip-address> --watch db.json
 
-**PS: [Json server reference](https://www.npmjs.com/package/json-server)**
+## Technologies and libraries
+
+* [Kotlin](https://kotlinlang.org/docs/reference/)
+* [Koin (DI)](https://insert-koin.io/)
+* [MVVM (Architecture)](https://github.com/MindorksOpenSource/MVVM-Architecture-Android-Beginners)
+* [Retrofit (Network)](https://square.github.io/retrofit/)
+* [Coroutines](https://kotlinlang.org/docs/reference/coroutines/coroutines-guide.html)
+
+## Reference
+
+* **[Json server reference](https://www.npmjs.com/package/json-server)**
