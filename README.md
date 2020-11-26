@@ -2,7 +2,7 @@
 
 In order to execute this project it is needed to execute a json server as backend. Below follow the steps to configure:
 
-Pre-requirement: Have npm installed.
+Pre-requirement: npm installed.
 
 1) create a backend folder;
 2) access the new backend folder;
@@ -25,3 +25,8 @@ Pre-requirement: Have npm installed.
 }
 ```
 6) Type the command: json-server --host <your-ip-address> --watch db.json
+
+PS: Json server reference: 
+[json-server]
+
+[json-server]: https://www.npmjs.com/package/json-server
